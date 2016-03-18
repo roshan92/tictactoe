@@ -10,7 +10,7 @@ if __FILE__ == $PROGRAM_NAME
   puts "Enter your desired name: "
   name = gets.chomp
   player_1 = Participant.new(name)
-  puts "Choose your option :- /n 1. Against human, 2. Newbie computer, or 3. The Master "
+  puts "Choose your option :- 1. Against human, 2. Newbie computer, or 3. The Master "
   choice = gets.chomp.to_i
   until choice >= 1 && choice <= 3
     puts "Please enter either number 1, 2, or 3"
