@@ -10,7 +10,9 @@ There are 3 options to play:-
 The board design (space numbering)
 
 0,0 | 0,1 | 0,2
+---------------
 1,0 | 1,1 | 1,2
+---------------
 2,0 | 2,1 | 2,2
 
 
