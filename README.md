@@ -7,6 +7,15 @@ There are 3 options to play:-
 3. Against the master aka the unbeatable
 
 
+The board design (space numbering)
+
+0,0 | 0,1 | 0,2
+----|-----|-----
+1,0 | 1,1 | 1,2
+----|-----|-----
+2,0 | 2,1 | 2,2
+
+
 # Get started
 
 1. Install Ruby
